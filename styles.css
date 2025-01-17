@@ -1,0 +1,24 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1;
+}
+
+.tag {
+  color: green;
+}
+
+.title {
+  color: blue;
+}
+
+.social-icons {
+  display: flex;
+  gap: 6px;
+}
+.social-icons a {
+  font-size: 32px;
+  text-decoration: none;
+}
+.social-icons a:hover {
+  color: blue;
+}
